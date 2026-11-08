@@ -8,6 +8,9 @@
 [submodule "seastests"]
 	path = seastests
 	url = https://github.com/cran/seastests
+[submodule "stlpro"]
+	path = stlpro
+	url = https://github.com/cran/stlpro
 [submodule "tssim"]
 	path = tssim
 	url = https://github.com/cran/tssim
